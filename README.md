@@ -8,3 +8,6 @@
 ##git push -u origin main
 ##git config --global user.name "Alok"
 ##git config --global user.email "abc@email.com"
+##git pull
+.gitignore file creation
+
