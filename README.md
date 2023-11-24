@@ -1,13 +1,1 @@
-## GIT COMMANDS
-##git init
-##git add README.md
-##git commit -m "This is my first commit"
-##git branch -M main
-##git remote add origin https://github.com/Pseudophoenix/ML-PROJECTS.git 
-##git remote -v
-##git push -u origin main
-##git config --global user.name "Alok"
-##git config --global user.email "abc@email.com"
-##git pull
-.gitignore file creation
-
+This repository contains a collection of my completed machine learning-based projects. Some of these projects are practice projects inspired by the work of others, while the rest are original creations of my own. 
